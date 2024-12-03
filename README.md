@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 # 1st-Tailwind-app
+# TAILWIND
